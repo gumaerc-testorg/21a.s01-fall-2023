@@ -1,0 +1,71 @@
+leftnav:
+- identifier: 4a7ec250-11b5-40c0-898e-3888631900f8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 19c6291f-2a40-4420-b601-904bb9bbf374
+  name: 'Week 1: Introduction: What is Anthro-Engineering? Why Ulaanbaatar? What the
+    Heck is a Molten Salt Thermal Brick?'
+  pageRef: /pages/week-1-introduction-what-is-anthro-engineering-why-ulaanbaatar-what-the-heck-is-a-molten-salt-thermal-brick
+  weight: 20
+- identifier: 5db44bcc-50d0-437c-8404-67004a12a05f
+  name: 'Week 2: Bridging Anthropology and Engineering'
+  pageRef: /pages/week-2-bridging-anthropology-and-engineering
+  weight: 30
+- identifier: 7907b838-523f-4d06-980d-51ccc12590e9
+  name: "Week 3: Illuminating What\u2019s in the Dark: Anthropological Concerns and\
+    \ Approaches"
+  pageRef: /pages/week-3-illuminating-whats-in-the-dark-anthropological-concerns-and-approaches
+  weight: 40
+- identifier: cbd8af73-c7ba-4b78-a7fe-d3565921ab2e
+  name: "Week 4: Mongolian \u201CCulture\u201D and Everyday Life in the Ger Districts"
+  pageRef: /pages/week-4-mongolian-culture-and-everyday-life-in-the-ger-districts
+  weight: 50
+- identifier: f7cb3b04-dcc4-4aaf-b19f-07bdbfb0e959
+  name: "Week 5: Choking on Smoke and Ulaanbaatar\u2019s Polycrises"
+  pageRef: /pages/week-5-choking-on-smoke-and-ulaanbaatars-polycrises
+  weight: 60
+- identifier: 111aa25c-3438-4322-a82e-a35918e24cba
+  name: "Week 6: Anthropology of Energy\u2014Culture, Agency, Values"
+  pageRef: /pages/week-6-anthropology-of-energy-culture-agency-values
+  weight: 70
+- identifier: 7101a12f-bcee-4995-aa06-666992fa7424
+  name: 'Week 7: Molten Salt Heat Brick Prototypes and Thinking with and against the
+    Brick | Ger Districts Interventions'
+  pageRef: /pages/week-7-molten-salt-heat-brick-prototypes-and-thinking-with-against-the-brick-ger-districts-interventions
+  weight: 80
+- identifier: d138a1c9-974e-4c0f-a446-e1f93f138da4
+  name: "Week 8: Anthropology of Energy\u2014Markets and Infrastructures"
+  pageRef: /pages/week-8-anthropology-of-energy-markets-and-infrastructures
+  weight: 90
+- identifier: 81398b41-aa29-4909-bf18-c5ffb1ca0ccd
+  name: 'Week 9: Technology and Power: Designing What, by Whom, for Whom, and with
+    Whom? '
+  pageRef: /pages/week-9-technology-and-power-designing-what-by-whom-for-whom-and-with-whom
+  weight: 100
+- identifier: 35bcf4dc-dfb8-4836-a5ac-7f0721999e38
+  name: 'Week 10: Engineering for Development: Equity, Justice, and the Pluriverse'
+  pageRef: /pages/week-10-engineering-for-development-equity-justice-and-the-pluriverse
+  weight: 110
+- identifier: aebbfb5f-59a9-4033-bb97-1f3d87cc33e9
+  name: 'Week 11: Sustainability, Interdisciplinarity, and Collaboration: Promises
+    and Pitfalls'
+  pageRef: /pages/week-11-sustainability-interdisciplinarity-and-collaboration-promises-and-pitfalls
+  weight: 120
+- identifier: a0f3552b-965e-4a32-8056-ba6b779ec9be
+  name: 'Week 12: Evaluating Success and Failure'
+  pageRef: /pages/week-12-evaluating-success-failure
+  weight: 130
+- identifier: 64fc4d08-5f50-4910-a4dc-79b409845f4d
+  name: "Week 13: Energy Ethnographies | Technology \u201CUsers\u201D and Holistic\
+    \ Design"
+  pageRef: /pages/week-13-energy-ethnographies-technology-users-and-holistic-design
+  weight: 140
+- identifier: 88083e37-dd5b-4c0c-83f4-2c3ada833709
+  name: 'Week 14: Ulaanbaatar Trip Planning and Prototyping Anthro-Engineering'
+  pageRef: /pages/week-14-ulaanbaatar-trip-planning-prototyping-anthro-engineering
+  weight: 150
+- identifier: b5cbb87f-587a-404c-a087-fc07afc1d2bb
+  name: 'Week 15: Wrap-Up'
+  pageRef: /pages/week-15-wrap-up
+  weight: 160
