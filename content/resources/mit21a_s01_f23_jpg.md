@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/anthro-engineering-decarbonization-at-the-million-person-scale/mit21a_s01_f23.jpg
+file: /ol-ocw-studio-app/courses/21a-s01-anthro-engineering-decarbonization-at-the-million-person-scale-fall-2023/mit21a_s01_f23.jpg
 file_size: 11464236
 file_type: image/jpeg
 image_metadata:
