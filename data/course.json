@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Environmental Engineering"
+    ],
+    [
+      "Humanities"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "d9ca5631-c693-6252-866d-63683c0c453e",
+      "e7a316f1-8ab1-4af6-ab9c-4e5c8253e948"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4fe8569d-d8d5-49bb-8019-c6df08879ba3",
+    "website": "anthro-engineering-decarbonization-at-the-million-person-scale"
+  },
+  "course_title": "Anthro-Engineering: Decarbonization at the Million-Person Scale",
+  "hide_download": false,
+  "mit_learn_topics": [
+    [
+      "Energy, Climate & Sustainability"
+    ],
+    [
+      "Humanities"
+    ]
+  ],
+  "course_description": "This course examines and experiments with pathways to decarbonization at the million-person scale.\u00a0Our field site is Ulaanbaatar, Mongolia\u2014the coldest capital on Earth and one of the world\u2019s most polluted cities, largely as a result of coal combustion.\u00a0We will explore the design and implementation of a molten salt heat bank to be used as an alternative to coal for household heating.\u00a0Our approach is holistic and interdisciplinary: to prototype a locally specific, culturally acceptable, and socio-economically viable reusable energy source, we combine anthropology and engineering to understand and address the complex social, environmental, material, economic, and political conditions that shape energy and sustainability dilemmas in Ulaanbaatar.\u00a0In doing so, we will move back and forth between prototyping the heat bank and considering practical constraints specific to the place and people.",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.S01",
+  "learning_resource_types": [
+    "Design Assignments",
+    "Activity Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "51eb1cb9-ff99-4482-9267-ac4302f08e80",
+  "site_short_id": "21a.s01-fall-2023",
+  "site_url_path": "courses/21a-s01-anthro-engineering-decarbonization-at-the-million-person-scale-fall-2023"
+}
