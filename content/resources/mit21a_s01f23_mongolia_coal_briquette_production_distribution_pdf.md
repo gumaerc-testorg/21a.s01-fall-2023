@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/anthro-engineering-decarbonization-at-the-million-person-scale/mit21a_s01f23_mongolia_coal_briquette_production_distribution.pdf
+file: /ol-ocw-studio-app/courses/21a-s01-anthro-engineering-decarbonization-at-the-million-person-scale-fall-2023/mit21a_s01f23_mongolia_coal_briquette_production_distribution.pdf
 file_size: 60708
 file_type: application/pdf
 image_metadata:
