@@ -8,11 +8,11 @@ uid: a0f3552b-965e-4a32-8056-ba6b779ec9be
 ---
 ## Readings
 
-Cross, Jamie, and Declan Murray. “[The Afterlives of Solar Power: Waste and Repair Off the Grid in Kenya](https://www.sciencedirect.com/science/article/pii/S2214629618304055).” *Energy Research & Social Science* (44) (2018): 100–109.
+Cross, Jamie, and Declan Murray. “{{% resource_link "137b0ce5-6896-4134-94b1-a9da38fe540f" "The Afterlives of Solar Power: Waste and Repair Off the Grid in Kenya" %}}.” *Energy Research & Social Science* (44) (2018): 100–109.
 
 ## Resources
 
-Explore the website [Solar What?!](https://web.archive.org/web/20240725154047/http://www.solarwhat.xyz/)
+Explore the website {{% resource_link "9f58041c-2bc0-4bed-a346-879bf2bbd944" "Solar What?!" %}}
 
 ## Homework
 

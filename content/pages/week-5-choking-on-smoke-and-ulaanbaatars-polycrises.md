@@ -8,14 +8,14 @@ uid: f7cb3b04-dcc4-4aaf-b19f-07bdbfb0e959
 ---
 ## Readings
 
-Carlisle, Stephanie, and Nicholas Pevzner. [*Mongolian Energy Futures: Repowering Ulaanbaatar: Challenges of Radical Energy Sector Decarbonization*](https://kleinmanenergy.upenn.edu/wp-content/uploads/2020/08/KCEP-Mongolian-Energy-Futures-Singles-1.pdf)*.* Kleinman Center for Energy Policy at the University of Pennsylvania, 2019.
+Carlisle, Stephanie, and Nicholas Pevzner. {{% resource_link "c67ad4d7-7a02-4924-a2b3-12f6642318aa" "*Mongolian Energy Futures: Repowering Ulaanbaatar: Challenges of Radical Energy Sector Decarbonization*" %}}*.* Kleinman Center for Energy Policy at the University of Pennsylvania, 2019.
 
-Selection from Fukuda, Chisato. "[Breathing Uncertainty: Politics of Harm in Mongolia's Air Pollution Crisis](https://search.library.wisc.edu/digital/AZQY4JI7CCJKBA8U)." PhD Dissertation, University of Wisconsin, Madison, 2020.
+Selection from Fukuda, Chisato. "{{% resource_link "4ccaa5e6-dba7-4769-b3ef-95bc1d98e108" "Breathing Uncertainty: Politics of Harm in Mongolia's Air Pollution Crisis" %}}." PhD Dissertation, University of Wisconsin, Madison, 2020.
 
 Menard, Aubrey. *Young Mongols: Forging Democracy in the Wild, Wild East*. Penguin Random House SEA, 2020. ISBN: 9789814882262.
 
-Julian Dierkes. “[Mass Protests in Mongolia Decry ‘Coal Mafia’ Corruption](https://thediplomat.com/2022/12/mass-protests-in-mongolia-decry-coal-mafia-corruption/).” *The Diplomat,* December 06, 2022. 
+Julian Dierkes. “{{% resource_link "39fd4547-5c13-4e33-bed0-fe6aff1d542c" "Mass Protests in Mongolia Decry ‘Coal Mafia’ Corruption" %}}.” *The Diplomat,* December 06, 2022. 
 
 ## Resources
 
-Ulaanbaatar's energy landscape on [Google Earth](https://earth.google.com/web/data=MkEKPwo9CiExT0dSVl9PaW56NjVTQVZOelhjaThGNDZXRUtkV1FSQmoSFgoUMEFBNDJBMDhGNjI1NDcyMjkyNEQgAUICCABKBwiqtaVlEAE)
+Ulaanbaatar's energy landscape on {{% resource_link "fce17ad5-1e8d-4383-aba6-99f127fcbafb" "Google Earth" %}}

@@ -11,11 +11,11 @@ uid: 64fc4d08-5f50-4910-a4dc-79b409845f4d
 
 ## Readings
 
-Hale, Tamara. "[People Are Not Users](https://rauli.cbs.dk/index.php/jba/article/view/5601)." *Journal of Business Anthropology* 7(3) (2018).
+Hale, Tamara. "{{% resource_link "9eefba24-635a-466b-8c1b-664876bd3b0a" "People Are Not Users" %}}." *Journal of Business Anthropology* 7(3) (2018).
 
-Grotzer, Tina, and Lydia Cao. [*EarthXDesign for a Sustainable World: Moving from Human-Centered to Earth-Centered Design*.](https://nextlevellab.gse.harvard.edu/2023/04/22/earthxdesign-for-a-sustainable-world-moving-from-human-centered-to-earth-centered-design/) Next Level Lab, Harvard Graduate School of Education, 2023.
+Grotzer, Tina, and Lydia Cao. {{% resource_link "d8b94aa0-e54c-46df-a3c4-b3a2d8709968" "*EarthXDesign for a Sustainable World: Moving from Human-Centered to Earth-Centered Design*." %}} Next Level Lab, Harvard Graduate School of Education, 2023.
 
-Amirebrahimi, Shaheen. "[The Rise of the User and the Fall of People: Ethnographic Cooptation and a New Language of Globalization](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/1559-8918.2016.01077)." EPIC: Ethnographic Praxis in Industry Conference (2016) 1:71–103. (optional)
+Amirebrahimi, Shaheen. "{{% resource_link "9b8c4e57-04a4-487e-804c-19659b4a028d" "The Rise of the User and the Fall of People: Ethnographic Cooptation and a New Language of Globalization" %}}." EPIC: Ethnographic Praxis in Industry Conference (2016) 1:71–103. (optional)
 
 ## Homework
 
