@@ -10,7 +10,7 @@ uid: cbd8af73-c7ba-4b78-a7fe-d3565921ab2e
 
 ## Readings
 
-Fox, Elizabeth. Introduction, Chapter 3, “The Ger District,” and Chapter 5, “Performing (for) the Bureaucratic Gaze” in [*Between Iron and Coal: Enacting Kinship, Bureaucracy, and Infrastructure in the Ger Districts of Ulaanbaatar*](https://discovery.ucl.ac.uk/id/eprint/10068535/)*.* Doctoral thesis (PhD), University College London, 2019.
+Fox, Elizabeth. Introduction, Chapter 3, “The Ger District,” and Chapter 5, “Performing (for) the Bureaucratic Gaze” in {{% resource_link "18dfc4d6-6d1c-4e9a-8bc2-9a6a5edb8a8c" "*Between Iron and Coal: Enacting Kinship, Bureaucracy, and Infrastructure in the Ger Districts of Ulaanbaatar*" %}}*.* Doctoral thesis (PhD), University College London, 2019.
 
 Abu-Lughod, Lila. "[Chapter 43: Writing Against Culture](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://doubleoperative.com/wp-content/uploads/2009/12/abu-lughod-1991-writing-against-culture1.pdf)" in *The Cultural Geography Reader.* Routledge, 2008. ISBN: 9780203931950.
 

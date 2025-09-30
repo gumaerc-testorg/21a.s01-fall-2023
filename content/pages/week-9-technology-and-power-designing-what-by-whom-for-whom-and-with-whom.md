@@ -9,15 +9,15 @@ uid: 81398b41-aa29-4909-bf18-c5ffb1ca0ccd
 ---
 ## Readings
 
-Winner, Langdon. “[Do Artifacts Have Politics?](https://www.jstor.org/stable/20024652?origin=JSTOR-pdf&seq=1)” *The Social Shaping of Technology: How the Refrigerator Got Its Hum*, *Daedalus* 109(1) (1980): 121–136.
+Winner, Langdon. “{{% resource_link "b3279a0f-5205-4e7c-a052-2673cf643b45" "Do Artifacts Have Politics?" %}}” *The Social Shaping of Technology: How the Refrigerator Got Its Hum*, *Daedalus* 109(1) (1980): 121–136.
 
 Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” *Feminist Studies* 14(3) (1988): 575–599.
 
-Hale, Tamara. "[People Are Not Users](https://rauli.cbs.dk/index.php/jba/article/view/5601)." *Journal of Business Anthropology* 7(3) (2018).
+Hale, Tamara. "{{% resource_link "9eefba24-635a-466b-8c1b-664876bd3b0a" "People Are Not Users" %}}." *Journal of Business Anthropology* 7(3) (2018).
 
-Grotzer, Tina, and Lydia Cao. [*EarthXDesign for a Sustainable World: Moving from Human-Centered to Earth-Centered Design*.](https://nextlevellab.gse.harvard.edu/2023/04/22/earthxdesign-for-a-sustainable-world-moving-from-human-centered-to-earth-centered-design/) Next Level Lab, Harvard Graduate School of Education, 2023.
+Grotzer, Tina, and Lydia Cao. {{% resource_link "d8b94aa0-e54c-46df-a3c4-b3a2d8709968" "*EarthXDesign for a Sustainable World: Moving from Human-Centered to Earth-Centered Design*." %}} Next Level Lab, Harvard Graduate School of Education, 2023.
 
-Amirebrahimi, Shaheen. "[The Rise of the User and the Fall of People: Ethnographic Cooptation and a New Language of Globalization](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/1559-8918.2016.01077)." EPIC: Ethnographic Praxis in Industry Conference (2016) 1:71–103. (optional)
+Amirebrahimi, Shaheen. "{{% resource_link "9b8c4e57-04a4-487e-804c-19659b4a028d" "The Rise of the User and the Fall of People: Ethnographic Cooptation and a New Language of Globalization" %}}." EPIC: Ethnographic Praxis in Industry Conference (2016) 1:71–103. (optional)
 
 ## Homework
 
@@ -36,7 +36,7 @@ Your grade will be weighted towards your interpretation, demonstrating that you 
 - Choose the social situation that interests you and that you can access and participate in in an unobtrusive way. You'll also want to consider time constraints—what is doable given the narrow scope of this assignment/project? 
 - You can ask questions during participant observation to help you understand what is happening and why. However, the focus should be on participant observation, not interviewing.
 
-**Things to Pay Attention To During Participant Observation / Record in Fieldnotes**, adapted from James Spradley's [Participant Observation](https://www.waveland.com/browse.php?t=689) (a classic text that was developed at my undergrad alma mater). Below are key dimensions of any social situation that you will want to pay close attention to. During participant observation, you do not need to record all of these things, but they should be guideposts about where to train your focus during participation and when writing up your fieldnotes: 
+**Things to Pay Attention To During Participant Observation / Record in Fieldnotes**, adapted from James Spradley's {{% resource_link "2221df13-c4ae-4c64-b4fe-dd7c98c9a0da" "Participant Observation" %}} (a classic text that was developed at my undergrad alma mater). Below are key dimensions of any social situation that you will want to pay close attention to. During participant observation, you do not need to record all of these things, but they should be guideposts about where to train your focus during participation and when writing up your fieldnotes: 
 
 - *Space/Scene/Setting*: Use all your senses to record the space/scene/setting. If it's helpful, make an illustration or map to depict what is happening and where. 
 - *People*: Detail the range of people present. How do they interact with each other, objects, the space? Is there any indication of hierarchy or status? Who is present? Who is absent? What were people talking about?

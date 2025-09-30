@@ -8,7 +8,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "The City of Ulaanbaatar in Mongolia, the coldest capital on Earth and\
     \ one of the world\u2019s most polluted cities due to coal combustion, is the\
-    \ field site for decarbonization in this course. (Image source: [public domain](https://commons.wikimedia.org/wiki/File:Ulaanbaatar_city_Mongolia_20230926_102617.jpg).)"
+    \ field site for decarbonization in this course. (Image source: {{% resource_link\
+    \ \"af5489e0-eafe-40f5-aa37-b73aeec2f36d\" \"public domain\" %}}.)"
   credit: ''
   image-alt: Birds'-eye view of an urban scene
 learning_resource_types: []
