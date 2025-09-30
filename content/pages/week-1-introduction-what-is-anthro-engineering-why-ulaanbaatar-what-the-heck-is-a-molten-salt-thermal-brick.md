@@ -9,7 +9,7 @@ uid: 19c6291f-2a40-4420-b601-904bb9bbf374
 ---
 Obtain the following book as soon as possible: 
 
-Waterston, Alisse. *Light in Dark Times: The Human Search for Meaning.* University of Toronto Press, 2020. ISBN: 9781487508852. \[Preview with [Google Books](https://www.google.com/books/edition/Light_in_Dark_Times/zRABEAAAQBAJ?hl=en&gbpv=1&dq=light+in+Dark+Times:+The+Human+Search+for+Meaning&printsec=frontcover)\].
+Waterston, Alisse. *Light in Dark Times: The Human Search for Meaning.* University of Toronto Press, 2020. ISBN: 9781487508852. \[Preview with {{% resource_link "44c8b2ae-91fc-4cdc-b106-9034c874fd9f" "Google Books" %}}\].
 
 ## Homework
 

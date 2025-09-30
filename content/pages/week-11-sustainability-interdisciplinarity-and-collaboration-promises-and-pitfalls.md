@@ -9,11 +9,11 @@ uid: aebbfb5f-59a9-4033-bb97-1f3d87cc33e9
 ---
 ## Part 1
 
-Guest speaker: Dr. Laura Frye-Levine, MIT’s [Climate and Sustainability Consortium](https://impactclimate.mit.edu/)
+Guest speaker: Dr. Laura Frye-Levine, MIT’s {{% resource_link "4613eb4f-8794-4595-bb02-50cd89ca5d5b" "Climate and Sustainability Consortium" %}}
 
 ### Readings
 
-Burch, Karly et al., “[Social Science-STEM Collaborations in Agriculture, Food, and Beyond: An STSFAN Manifesto](https://link.springer.com/article/10.1007/s10460-023-10438-2#citeas).” *Agricultural and Human Values* 40 (2023): 939–949.
+Burch, Karly et al., “{{% resource_link "f38c78a4-2cdd-4d41-b338-3fb8e04de346" "Social Science-STEM Collaborations in Agriculture, Food, and Beyond: An STSFAN Manifesto" %}}.” *Agricultural and Human Values* 40 (2023): 939–949.
 
 ### Homework
 

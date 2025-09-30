@@ -11,8 +11,8 @@ In this unit, we will go to the lab with the model ger to learn about the molten
 
 ## Part 1: Improved Stove Program
 
-Before-Class Reading: [Impact Evaluation Results of the Millennium Challenge Account Mongolia Energy and Environment Project Energy-Efficient Stove Subsidy Program (ZIP file)](https://microdata.worldbank.org/index.php/catalog/2287/download/34311) from the World Bank:                     
-[Energy and Environment Project 2012-2013, Stove Subsidies Component in Mongolia, 2012–2013](https://microdata.worldbank.org/index.php/catalog/2287/related-materials).
+Before-Class Reading: {{% resource_link "2b195717-c287-4f07-a0a1-1a879e44c9db" "Impact Evaluation Results of the Millennium Challenge Account Mongolia Energy and Environment Project Energy-Efficient Stove Subsidy Program (ZIP file)" %}} from the World Bank:                     
+{{% resource_link "74c649ae-b7aa-4fbe-9735-d72a3696dfe5" "Energy and Environment Project 2012-2013, Stove Subsidies Component in Mongolia, 2012–2013" %}}.
 
 Please review the Millennium Challenge Corporation's Impact Evaluation Results of the energy-efficient stove subsidy program. Like the pilot study reading, you do not have to read for small details (the report is 100 pages long). Please read to get a sense of what worked well (and didn't) with this program, actual stove use behavior ("compliance") versus expected stove use behavior, and variables that emerged as important following the stove program intervention.
 
@@ -22,7 +22,7 @@ Source: Social Impact/Millennium Challenge Corporation. 2014. “Impact Evaluati
 
 ### Resources
 
-[Listen to an interview with Laura Nader](https://cenhs.libsyn.com/200-laura-nader) on the *Cultures of Energy* podcast, starting at 13:00 minutes. This podcast is AMAZING and is run by [Dominic Boyer](https://profiles.rice.edu/faculty/dominic-boyer) and [Cymene Howe](https://profiles.rice.edu/faculty/cymene-howe), anthropologists of energy (and more) at Rice University.
+{{% resource_link "95418869-1988-4fe6-a740-27b4832264be" "Listen to an interview with Laura Nader" %}} on the *Cultures of Energy* podcast, starting at 13:00 minutes. This podcast is AMAZING and is run by {{% resource_link "12dd380f-c68a-490e-82f2-b56bf512a640" "Dominic Boyer" %}} and {{% resource_link "9042b35b-7e08-4672-804a-3cd18184798c" "Cymene Howe" %}}, anthropologists of energy (and more) at Rice University.
 
 ### Readings
 
@@ -40,21 +40,21 @@ To help you prepare for the Ger Districts Intervention Case Study Presentation, 
 
 #### International Development-Driven Intervention: Improved Stoves
 
-[“Impact Evaluation Results of the Millennium Challenge Account Mongolia Energy and Environment Project Energy-Efficient Stove Subsidy Program](https://socialimpact.com/portfolio-items/impact-evaluation-mcc-mongolia-energy-environment-project/).” Arlington, VA: Social Impact/Millennium Challenge Corporation. 2014. 
+{{% resource_link "cfeaf71f-8d5d-4b2c-9365-a30c386cc0f1" "“Impact Evaluation Results of the Millennium Challenge Account Mongolia Energy and Environment Project Energy-Efficient Stove Subsidy Program" %}}.” Arlington, VA: Social Impact/Millennium Challenge Corporation. 2014. 
 
-Lobscheid, Agnes, et al. "[2012 Pilot Study of Fuel and Stove Use Behavior of Mongolian Ger Households](https://escholarship.org/uc/item/9sr4r2mf)." Lawrence Berkeley National Laboratory, 2013.
+Lobscheid, Agnes, et al. "{{% resource_link "b065e4bb-68cb-483e-b03e-a66adbabb9ee" "2012 Pilot Study of Fuel and Stove Use Behavior of Mongolian Ger Households" %}}." Lawrence Berkeley National Laboratory, 2013.
 
-Social Impact. [“Mongolia Compact—Energy and Environment—Stove Subsidy Only: Final Analysis Report.”](https://mcc.icpsr.umich.edu/evaluations/index.php/catalog/661/versions/V3) Washington, DC: Millennium Challenge Corporation, August 1, 2014. [https://doi.org/10.3886/6far-k027](https://doi.org/10.3886/6far-k027)
+Social Impact. {{% resource_link "d3dbb6d8-cfb5-4b66-b04b-ef6009a8ff6d" "“Mongolia Compact—Energy and Environment—Stove Subsidy Only: Final Analysis Report.”" %}} Washington, DC: Millennium Challenge Corporation, August 1, 2014. {{% resource_link "e5f77683-15cf-46b3-878a-4210b844ba0c" "https://doi.org/10.3886/6far-k027" %}}
 
-Ulzii Mazi, "[Mongolian TV Commercial about Improved Stoves (Ulzii and Khas Models)](https://www.youtube.com/watch?v=36lLATuI4gA)" (YouTube).
+Ulzii Mazi, "{{% resource_link "0d47ecf6-1800-45ff-a856-364058bb6e26" "Mongolian TV Commercial about Improved Stoves (Ulzii and Khas Models)" %}}" (YouTube).
 
 #### Government-Driven Intervention: Raw Coal Ban / Improved Coal Briquette Mandate  
 
-Plueckhahn, Rebekah. "[Breathing What Air? Reflections on Mongolia before and after Covid-19](https://madeinchinajournal.com/2020/10/19/breathing-what-air-mongolia-before-and-after-covid-19/)," *Made in China Journal*, Oct. 19, 2020.
+Plueckhahn, Rebekah. "{{% resource_link "a6aef03e-4de4-4d02-b33b-eb2d5e47b078" "Breathing What Air? Reflections on Mongolia before and after Covid-19" %}}," *Made in China Journal*, Oct. 19, 2020.
 
 {{% resource_link "858fdfec-ca32-44d0-af42-4fa7f239fdf6" "GerHub: Information about Mongolia Coal briquette production and distribution" %}} (PDF).
 
-Ikon News, "[How to Properly Ignite Improved Coal](https://www.youtube.com/watch?v=ztaH3tY5Ldk)" (YouTube).
+Ikon News, "{{% resource_link "3fa8afec-ecd8-4b44-82eb-86ee4d06fb6f" "How to Properly Ignite Improved Coal" %}}" (YouTube).
 
 An A-level presentation should:  
 
