@@ -10,6 +10,6 @@ uid: 35bcf4dc-dfb8-4836-a5ac-7f0721999e38
 
 Escobar, Arturo. “Elements for a Cultural Studies of Design” in *Designs for the Pluriverse.* Duke University Press, 2018. ISBN: 9780822370901.
 
-Nieusuma, Dean, and Donna Riley. [“Designs on Development: Engineering, Globalization, and Social Justice.”](https://www.tandfonline.com/doi/full/10.1080/19378621003604748) *Engineering Studies* 2(1) (2010): 29–59.
+Nieusuma, Dean, and Donna Riley. {{% resource_link "54b38c88-c99c-47fa-83eb-49dc63c67f8a" "“Designs on Development: Engineering, Globalization, and Social Justice.”" %}} *Engineering Studies* 2(1) (2010): 29–59.
 
-Calel, Raphael, et al. "[Do Carbon Offsets Offset Carbon?](https://www.aeaweb.org/articles?id=10.1257/app.20230052)" *American Economic Journal: Applied Economics* 17(1) (2025): 1–40.
+Calel, Raphael, et al. "{{% resource_link "618dbbc0-bfd1-492d-92c8-c0e770f99e16" "Do Carbon Offsets Offset Carbon?" %}}" *American Economic Journal: Applied Economics* 17(1) (2025): 1–40.
